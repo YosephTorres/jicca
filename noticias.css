@@ -112,6 +112,15 @@ body {
 }
 
 
+.rodape a {
+    color: #e8f1f2;
+    text-decoration: none;
+
+}
+.rodape a:hover {
+    color: #b9e7f8;
+
+}
 
 Img {
     width: 25%;
