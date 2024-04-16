@@ -101,10 +101,15 @@ color: #e8f1f2;
     
 }
 
-Img{
-    width: 25%;
+.imagens{
+    width: 100%;
     text-align: center;
     padding: 20px;
+}
+
+.imagens Img{
+    width: 200px;
+
 }
 footer{
     background-color: #13293d;
