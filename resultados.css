@@ -16,6 +16,7 @@ body {
   table{
     border-collapse: collapse;
     width: 100%;
+    text-align: center;
  
     
   }
@@ -40,7 +41,7 @@ body {
     text-align: center;
     padding: 30px;
     color: #e8f1f2;
-
+    
 }
 
 .topo h1 {
